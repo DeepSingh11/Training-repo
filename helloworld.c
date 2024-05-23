@@ -1,3 +1,5 @@
+/* Author:Deep Singh*/
+
 #include<stdio.h>
 
 int main()
